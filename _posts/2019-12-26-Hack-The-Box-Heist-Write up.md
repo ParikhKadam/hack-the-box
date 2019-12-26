@@ -51,21 +51,23 @@ After logging in as guest I found this page
 
 In this page The user Hazard posting the issue about cisco router and he attached the issue with configuration file
 
-#[](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/config.png)
+![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/config.png)
 
 In config.txt it contains some pass and username
 
 I used online tools to crack them
 
-#[](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/cracked(1).png)
-#[](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/cracked(2).png)
+![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/cracked(1).png)
+![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/cracked(2).png)
 
 ```
 0242114B0E143F015F5D1E161713 - $uperP@ssword
 02375012182C1A1D751618034F36415408 - Q4)sJu\Y8qz*A3?d
 ```
 this one can't crack by online tools so I used john
-```$1$pdQG$o8nrSzsGXeaduXrjlvKc91```
+```
+$1$pdQG$o8nrSzsGXeaduXrjlvKc91
+```
 
 ```
 root@ch4n:~/Desktop/htb/boxes/heist# john --wordlist=/root/Desktop/rockyou.txt hash.txt
@@ -81,16 +83,20 @@ Use the "--show" option to display all of the cracked passwords reliably
 Session completed
 ```
 we got the pass 
-```stealth1agent```
+```
+stealth1agent
+```
 
 so we got users as 
+```
 admin
 Hazard
 administrator 
+```
 
 so Let's enumerate user through hazard 
 
-#[](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/lookupsid.jpg)
+![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/lookupsid.jpg)
 
 here we got a bunch of usernames
 
@@ -112,8 +118,10 @@ Q4)sJu\Y8qz*A3?d
 stealth1agent
 ```
 then I could login as Chase 
-```Chase - Q4)sJu\Y8qz*A3?d```
-#[](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/chase.jpg)
+```
+Chase - Q4)sJu\Y8qz*A3?d
+```
+![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/chase.jpg)
 then grab the user.txt
 
 # [](#header-2)Privillege Escalation
@@ -122,11 +130,13 @@ I found this
 if( $_REQUEST['login_username'] === 'admin@support.htb' && hash( 'sha256', $_REQUEST['login_password']) === '91c077fb5bcdd1eacf7268c945bc1d1ce2faf9634cba615337adbf0af4db9040') 
 ```
 in 
-```C:\inetpub\wwwroot\login.php ```
+```
+C:\inetpub\wwwroot\login.php 
+```
 
 I crack the pass with online tools 
 
-#[](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/cracked(3).png)
+![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/cracked(3).png)
 
 ```
 https://md5hashing.net/hash/sha256/91c077fb5bcdd1eacf7268c945bc1d1ce2faf9634cba615337adbf0af4db9040
@@ -139,7 +149,7 @@ got the password
 ``` 
 and login with evil-winrm
 
-#[](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/root.jpg)
+![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/root.jpg)
 
 and got the shell as system user and grab the root flag
 
@@ -149,7 +159,7 @@ let's go on
 
 I check the services with ps cmd 
 
-#[](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/ps.png)
+![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/ps.png)
 
 then I saw that firefox is running 
 
@@ -157,21 +167,23 @@ so I used procdump to dump all the data from firefox
 
 You can download from there:[https://docs.microsoft.com/en-us/sysinternals/downloads/procdump](https://docs.microsoft.com/en-us/sysinternals/downloads/procdump)
 
-#[](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/procdump.png)
+![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/procdump.png)
 
 I just download the dmp file from attack  machine to my machine then grep the pass with strings 
 
-#[](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/strings.png)
+![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/strings.png)
  
 then got the root pass 
-#[](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/root_pass.jpg)
+![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/root_pass.jpg)
 ```
 4dD!5}x/re8]FBuZ
 ```
 So This is another way to get the root pass.
 
 That’s it , Feedback is appreciated !
+
 Contact me on [Facebook](https://www.facebook.com/SeeKwalCH4N)[Twitter](https://twitter.com/ChanNyeinWai6)[Instagram](https://www.instagram.com/chan_nyeinwai/)
+
 Thanks for reading.
-#[]( <img src="https://www.hackthebox.eu/badge/image/81292" alt="Hack The Box"> )
+![]( <img src="https://www.hackthebox.eu/badge/image/81292" alt="Hack The Box"> )
 
