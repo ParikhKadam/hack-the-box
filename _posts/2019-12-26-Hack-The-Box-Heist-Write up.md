@@ -138,10 +138,10 @@ I crack the pass with online tools
 
 ![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/cracked(3).png)
 
-```
-https://md5hashing.net/hash/sha256/91c077fb5bcdd1eacf7268c945bc1d1ce2faf9634cba615337adbf0af4db9040
-4dD!5}x/re8]FBuZ
-```
+[https://md5hashing.net/hash/sha256/91c077fb5bcdd1eacf7268c945bc1d1ce2faf9634cba615337adbf0af4db9040
+4dD!5}x/re8]FBuZ](https://md5hashing.net/hash/sha256/91c077fb5bcdd1eacf7268c945bc1d1ce2faf9634cba615337adbf0af4db9040
+4dD!5}x/re8]FBuZ)
+
 got the password 
 
 ```
