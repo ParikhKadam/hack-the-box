@@ -182,8 +182,11 @@ So This is another way to get the root pass.
 
 That’s it , Feedback is appreciated !
 
-Contact me on [Facebook](https://www.facebook.com/SeeKwalCH4N)[Twitter](https://twitter.com/ChanNyeinWai6)[Instagram](https://www.instagram.com/chan_nyeinwai/)
+Contact me on 
+[Facebook](https://www.facebook.com/SeeKwalCH4N)
+[Twitter](https://twitter.com/ChanNyeinWai6)
+[Instagram](https://www.instagram.com/chan_nyeinwai/)
 
 Thanks for reading.
-![]( <img src="https://www.hackthebox.eu/badge/image/81292" alt="Hack The Box"> )
+<img src="https://www.hackthebox.eu/badge/image/81292" alt="Hack The Box"> 
 
