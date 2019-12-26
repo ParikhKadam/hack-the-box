@@ -30,9 +30,9 @@ c = 6207808667741668686718385795735033831444628091267339244806502685021268532655
 dp = 5540655028622021934429306287937775291955623308965208384582009857376053583575510784169616065113641391169613969813652523507421157045377898542386933198269451
 dq = 9066897320308834206952359399737747311983309062764178906269475847173966073567988170415839954996322314157438770225952491560052871464136163421892050057498651
 ```
-I know that it is rsa algorithm  there is p,q ,c(cipher text) ,dp and dq  I know that what is p,q, and c but I dont know about what is dp and dq  so I serarch in google actually it is about Chinese Reminder Algorithm after reading [this] (https://en.wikipedia.org/wiki/RSA_(cryptosystem)#Using_the_Chinese_remainder_algorithm)
+I know that it is rsa algorithm  cause there is p,q ,c(cipher text) ,dp and dq.I know  what is p,q, and c but I dont know about what is dp and dq  so I serarch in google actually it is about Chinese Reminder Algorithm after reading [this] (https://en.wikipedia.org/wiki/RSA_(cryptosystem)#Using_the_Chinese_remainder_algorithm)
 
-I know that How can I solve this challenge
+So now I realized that How can I solve this challenge
 so Let's just create the python script
 
 # [](#header-2)Code
