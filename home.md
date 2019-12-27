@@ -2,7 +2,7 @@
 layout: page
 title: Home
 ---
-
+Active writes up is protected by flag as a passwoes
 <section>
   {% if site.posts[0] %}
 
