@@ -2,7 +2,7 @@
 layout: page
 title: Home
 ---
-Active writes up are protected by password flag 
+<font color ="blue">Active writes up are protected by password flag </font> 
 <section>
   {% if site.posts[0] %}
 
