@@ -8,3 +8,5 @@
 
 
 [HTB Crypto Brainy's Cipher](https://cnw311.github.io/hack-the-box/Hack-The-Box-Crypto-Brainy's-Cipher-Walkthrough)
+
+[HTB Web-Ezpz-Challenge-Write-up]()
