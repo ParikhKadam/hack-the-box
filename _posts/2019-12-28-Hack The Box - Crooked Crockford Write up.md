@@ -1,5 +1,5 @@
 ---
-title: Hack The Box - Crypto Brainy's Cipher Walkthrough
+title: Hack The Box - Crooked Crockford Write up
 published: true
 ---
 Hey Guys This is my write up about croocked corckford from Hack The Box
