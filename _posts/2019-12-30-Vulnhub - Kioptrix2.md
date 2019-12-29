@@ -64,7 +64,8 @@ and it is login page so I try
 
 ```admin:admin
 guest:guest
-adminstrator:admin123```
+adminstrator:admin123
+```
 
 So then I try sqli auth bypass payload 
 
