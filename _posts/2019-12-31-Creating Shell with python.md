@@ -1,3 +1,8 @@
+---
+title: Creating Shell with python
+published: true
+---
+```
 import requests 
 from cmd import Cmd 
 from urllib.parse import quote
@@ -13,3 +18,4 @@ def RunCmd(cmd):
 	print(r.text)
 term = Terminal()
 term.cmdloop()
+```
