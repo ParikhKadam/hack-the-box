@@ -51,9 +51,10 @@ Also check [this article](https://medium.com/bug-bounty-hunting/beginner-tips-to
 If you wanna know some more you can ask me.There are resources setcion in my blog check that.
 
 
-Some people said I'm so fast.Yes I just slept for hours per day when I was solving htb for a month.That's took me to get prohakcer then got guru.
+Some people said I'm so fast.Yes I just slept four hours per day when I was solving htb for a month.That's took me to get prohakcer then got guru.
 
 When I was solving sniper machine,I was sick for ten days.So Sleep well then try harder.Take care of your help.If you dont have a good health,you can't do anything 
+
 Hope this help
 
 Enjoy:-)
