@@ -48,8 +48,7 @@ Also check [this article](https://medium.com/bug-bounty-hunting/beginner-tips-to
 [Ippsec](https://www.youtube.com/results?search_query=ippsec)
 [ctftime](https://ctftime.org/)
 
-If you wanna know some more you can ask me.There are resources setcion in my blog check that.
-
+If you wanna know some more you can ask me.There is resources setcion in my blog check that.
 
 Some people said I'm so fast.Yes I just slept four hours per day when I was solving htb for a month.That's took me to get prohakcer then got guru.
 
