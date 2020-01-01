@@ -17,9 +17,9 @@ I think I just prepare for one month to done all this stuff.But our team reanked
 
 # [](#header-2)How did I learn
 
-After that my teamates suggest me to try HTB machines.Before I go htb I already learn something about web application  pentesting like sqli,xss,etc...
+After that my teamates suggest me to try HTB machines.Before I go htb I already learned something about web application  pentesting like sqli,xss,etc...
 
-also watch ippsec youtube channel and read some retired machine writes up.At first,I decide to solve vulnhub machines.But there  is a problem that I have a touble with settting up machines
+also watch ippsec youtube channel and read some retired machine writes up.At first,I decide to solve vulnhub machines.But there  is a problem that I have a touble with setting up machines
 
 So I decide to read writes up.I started my frist box as netwroked,it is really easy but I just pwned user.For the root part I dont know where to go.
 
@@ -27,11 +27,11 @@ Then I ask my fri.He helped me to get root.After solving 2 boxes with some helps
 
 So here is my tips 
 
-1.Enumeration
-2.Think what you got 
-3.Read documentaion about this 
-4.search for exploit(Note that sometimes it doesnt have exploit then u need to exploit read docs by yourself)
-5.Exploit it 
+1. Enumeration
+1. Think what you got 
+1. Read documentaion about this 
+1. search for exploit(Note that sometimes it doesnt have exploit then u need to exploit read docs by yourself)
+1. Exploit it 
 
 That's my tips.
 
