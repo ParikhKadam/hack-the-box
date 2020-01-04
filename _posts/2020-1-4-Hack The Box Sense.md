@@ -105,7 +105,7 @@ You can also check [exploit-db](https://www.exploit-db.com/exploits/43560)
 # [](#headrer-3)Exploitation
 ![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/Hack%20the%20box%20machines%20images/sense/using_exploit.png)
 
-![https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/Hack%20the%20box%20machines%20images/sense/root.jpg]
+![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/Hack%20the%20box%20machines%20images/sense/root.jpg)
 
 In here we are with shell as root.So that's it.Pretty easy box.
 
