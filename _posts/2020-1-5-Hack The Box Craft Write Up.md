@@ -1,5 +1,5 @@
 ---
-title: Hack The Box Craft Write Up.md
+title: Hack The Box Craft Write Up
 published: true
 ---
 Hey Guys This is chan and Today craft is retired from hack the box and here is my write up about craft.It is an medium linux machine.Craft is an easy one.it is https protoco.So let’s get jump.
