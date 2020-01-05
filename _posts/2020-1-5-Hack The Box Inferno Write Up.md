@@ -5,7 +5,7 @@ published: true
 
 Hey Guys This is chan and today I'll write about inferno challnege from hack the box.It was retired and it is an easy misc challenge.
 
-# [](#header-3)Chalenge description
+# [](#header-3)Challenge description
 
 Find the flag
 
