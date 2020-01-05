@@ -16,3 +16,5 @@
 [HTB Web-Ezpz-Challenge-Write-up](https://cnw311.github.io/hack-the-box/Hack-The-Box-Web-Ezpz-Challenge-Write-up)
 
 [HTB Crocked Crockford Write Up](https://cnw311.github.io/hack-the-box/Hack-The-Box-Crooked-Crockford-Write-up)
+
+[HTB Inferno Write Up](https://cnw311.github.io/hack-the-box/Hack-The-Box-Inferno-Write-Up)
