@@ -23,9 +23,9 @@ RCdgXyReIjdtNVgzMlZ4ZnZ1PzFOTXBMbWwkakdGZ2dVZFNiYn08eyldeHFwdW5tM3Fwb2htZmUrTGJn
 D'`_$^"7m5X32Vxfvu?1NMpLml$jGFggUdSbb}<{)]xqpunm3qpohmfe+Lbgf_^]#a`Y^WVz=<XWVONrLQJINGkEiIHG)?c&BA:?>=<5Yzy765432+O/.'&%$H(!g%$#z@~}vu;srqvun4Uqjinmle+cKaf_d]#[`_X|\[ZYXWVUTSRQP2NMFKJCBfFE>&<`@9!=<5Y9y7654-,P0/o-,%I)ih~}${A!a}v{t:[Zvo5srTSonmf,jiKg`_dc\"`BXWVzZ<;WVUTMqQP2NGFEiIHGF?>bB$@9]=<;4381Uvu-2+0/('K+*)('~f|B/
 ```
 
-We got nonsense that.I solved it like this challnege in one of ctf competation
+We got nonsense text.Honestly, I solved it like this challnege in one of ctf competation
 
-It is an estotreic language call malbolge.You can read about it [here](https://en.wikipedia.org/wiki/Malbolge)
+It is an estoteric language call malbolge.You can read about it [here](https://en.wikipedia.org/wiki/Malbolge)
 
 I decode at this [http://malbolge.doleczek.pl/](http://malbolge.doleczek.pl/)
 
