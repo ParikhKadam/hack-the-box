@@ -3,6 +3,10 @@
 
 [HTB Heist](https://cnw311.github.io/hack-the-box/Hack-The-Box-Heist-Write-up)
 
+[HTB Craft](https://cnw311.github.io/hack-the-box/Hack-The-Box-Craft-Write-Up)
+
+[HTB Sense](https://cnw311.github.io/hack-the-box/Hack-The-Box-Sense)
+
 
 <h3><font color = "Green">Chalenges</font></h3>
 
