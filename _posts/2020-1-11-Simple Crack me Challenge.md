@@ -13,8 +13,7 @@ frist we extract the zip file (password - crackmes.one)
 
 I check the file with file cmd to know what is the type of the file
 
-![https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/cracmes/keyg3nme/file.jpg]
-
+![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/cracmes/keyg3nme/file.jpg)
 So it is ELF 64-bit excutable file type 
 
 Running Birnary file
