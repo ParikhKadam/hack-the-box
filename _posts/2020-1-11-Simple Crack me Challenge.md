@@ -13,4 +13,4 @@ this write up is active right now so it is protected by password(password is the
 
 Cause I dont have permission to publish my article.
 
-You can download my write up from [here](https://github.com/Cnw311/hack-the-box/raw/gh-pages/assets/cracmes/keyg3nme/keyg3nme.pdf)
+You can download my write up from [here](https://github.com/Cnw311/hack-the-box/raw/gh-pages/assets/cracmes/keyg3nme/key3gnme.pdf)
