@@ -53,7 +53,7 @@ Nmap done: 1 IP address (1 host up) scanned in 905.85 seconds
 ```
 In here I noticed that there is no port 80 and also there is smtp.
 
-So I think it is https proto co.
+So I think it is https protoco.
 
 # [](#header-3)Webpage
 
