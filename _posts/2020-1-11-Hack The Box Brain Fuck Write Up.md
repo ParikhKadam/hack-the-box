@@ -93,10 +93,14 @@ So let's check with wpscan is it vulnerable or not
 ```
 wpscan --url https://brainfuck.htb --disable-tls-checks --api-token <redacted>
 ```
+
+```
 -- url: The URL of the blog to scan.
 --disable-tls-checks: Disables SSL/TLS certificate verification.
 --api-token: The WPVulnDB API Token to display vulnerability data
 The WordPress version identified is 4.7.3
+```
+
 ```
 | [!] Title: WP Support Plus Responsive Ticket System <= 8.0.7 - Remote Code Execution (RCE)
  |     Fixed in: 8.0.8
