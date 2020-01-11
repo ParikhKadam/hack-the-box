@@ -1,5 +1,5 @@
 ---
-title: Hack The Box - Simple Crack me Challenge 1
+title: Simple Crack me Challenge 1
 published: true
 ---
 
