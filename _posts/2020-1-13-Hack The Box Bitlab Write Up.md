@@ -4,14 +4,13 @@ published: true
 ---
 Hey Guys.This is Chan and today I am gonna make a write up about bitlab from Hack The Box.
 
+![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/Hack%20the%20box%20machines%20images/bitlab/bitlab.png)
+
 Sorry for being late to upload write up cause I have an exams in my school recently.
 
 So let’s start.
 
 Bit lab is a linux medium machine and I added the ip adress 10.10.10.114 as bitlab.htb to /etc/hosts. so let’s get jump in.
-
-
-![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/Hack%20the%20box%20machines%20images/bitlab/bitlab.png)
 
 # [](#header-3)Nmap 
 ```
