@@ -217,7 +217,7 @@ User – clave
 password – 11des0081x
 ```
 
-After logging in using this creds,I found two repo profile and developer
+After logging in using this creds,I found two projetcs profile and developer
 ![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/Hack%20the%20box%20machines%20images/bitlab/index.png)
 
 ![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/Hack%20the%20box%20machines%20images/bitlab/developer.png)
