@@ -1,6 +1,6 @@
 ---
 title: Hack The Box Bitlab Write Up
-published:true
+published: true
 ---
 Hey Guys.This is Chan and today I am gonna make a write up about bitlab from Hack The Box.
 
