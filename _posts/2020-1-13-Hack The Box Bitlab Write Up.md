@@ -307,7 +307,7 @@ there is an interesting file called RemoteConnection.exe
 I downloaded this to my machine
 And I added to x32 debugger  and I set a breeakpoint at acess denied got the ssh root password
 
-![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/Hack%20the%20box%20machines%20images/bitlab/debugger.png)
+![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/Hack%20the%20box%20machines%20images/bitlab/degubber.jpg)
 
 ```
 “-ssh root@gitlab.htb -pw \“Qf7]8YSV.wDNF*[7d?j&eD4^\””
