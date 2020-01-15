@@ -89,7 +89,7 @@ I created the pattern and then run and put the pattern then program was crashed:
  
 ![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/Hack%20the%20box%20machines%20images/safe/pattern_offset2.png)
 
-In here we  can see that rbp register contains bbbbbbbb and it shows that This  offset to can control RIP with 120 bytes + 8 bytes:-)
+In here we  can see that rbp register contains bbbbbbbb and it shows that This  offset  can control RIP with 120 bytes + 8 bytes:-)
 
 ![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/Hack%20the%20box%20machines%20images/safe/rbp_registers.png)
 
