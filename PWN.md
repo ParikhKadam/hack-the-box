@@ -1,5 +1,5 @@
 ```
-Hey Guys.I will make a course or may be tutorial about pwn(binary exploitat) in soon.
+Hey Guys.I will make a course or may be tutorial about pwn(binary exploitation) in soon.
 
 Just wait a bit cause I  want to explain about pwn like  from really basic things to advance.
 
