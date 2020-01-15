@@ -184,14 +184,16 @@ Will run 4 OpenMP threads
 Press 'q' or Ctrl-C to abort, almost any other key for status
 bullshit         (MyPasswords)
 ```
-So here we grab the pass as bullshit
+here we grab the pass as bullshit
 
 ![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/Hack%20the%20box%20machines%20images/safe/kpcli_pass.png)
 
-here we got the root password and grab the root flag
+then login and with su cmd and grab the root flag 
 
 ![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/Hack%20the%20box%20machines%20images/safe/root.png)
 
 That's it guys.
 
-Enjoy my write up
+Enjoy my write up:-)
+
+<script src="https://www.hackthebox.eu/badge/81292"></script>
