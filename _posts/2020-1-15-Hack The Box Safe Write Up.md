@@ -98,6 +98,8 @@ I can’t  put the shellcode on the stack because NX is enabled so the stack isn
 
 we can use the system function cause PIE is not enable so the address for system doesn't change
 
+![](https://raw.githubusercontent.com/Cnw311/hack-the-box/gh-pages/assets/Hack%20the%20box%20machines%20images/safe/grep%20pop.png)
+
 I used ropper -f myapp to find rop gadgets
 ```
 0x0000000000401206: pop r13; pop r14; pop r15; ret; 
