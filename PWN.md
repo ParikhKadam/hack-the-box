@@ -9,7 +9,7 @@ So that I need to read some books and articles to explain you guys.
 
 So just wait recently I am really busy about couples of things that I need to do.
 
-Also reverse enigineering wil comming soon:-)
+Also reverse enigineering will comming soon:-)
 
 Thank You!
 ```
