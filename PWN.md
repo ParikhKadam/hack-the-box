@@ -1,7 +1,7 @@
 ```
 Hey Guys.I will make a course or may be tutorial about pwn(binary exploitat) in soon.
 
-Just wait a bit cause I  want to explain about pwn like really from basic things to advance.
+Just wait a bit cause I  want to explain about pwn like  from really basic things to advance.
 
 Well I am not professional but I will try my best to understand all of you.
 
